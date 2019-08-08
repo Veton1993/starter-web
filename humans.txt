@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Veton Staraveci		veton.staraveci@hotmail.com
 
 # THANKS
 
