@@ -22,3 +22,8 @@ can be on any web server or even loval
 file system.
 
 ## How To Contribute
+
+
+###Copyright
+
+2019 Git.Training.
